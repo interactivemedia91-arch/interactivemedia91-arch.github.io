@@ -1,2 +1,2 @@
 # interactivemedia91-arch.github.io
-Subsly landing + app-ads.txt
+Paydar (formerly Subsly) landing + app-ads.txt
