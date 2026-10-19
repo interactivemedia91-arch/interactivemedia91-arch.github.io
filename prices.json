@@ -87,18 +87,6 @@
    "source": "https://techcrunch.com/2025/01/30/amazon-hikes-prices-for-its-music-unlimited-subscriptions"
   },
   {
-   "id": "amazon-music-us-2025-03-individual",
-   "serviceId": "amazon-music",
-   "plan": "Unlimited Individual",
-   "country": "US",
-   "currency": "USD",
-   "frequency": "monthly",
-   "from": 10.99,
-   "to": 11.99,
-   "effective": "2025-03-05",
-   "source": "https://techcrunch.com/2025/01/30/amazon-hikes-prices-for-its-music-unlimited-subscriptions"
-  },
-  {
    "id": "amazon-music-us-2025-03-prime",
    "serviceId": "amazon-music",
    "plan": "Unlimited (Prime)",
@@ -119,18 +107,6 @@
    "frequency": "monthly",
    "from": 19.99,
    "to": 21.99,
-   "effective": "2026-03-05",
-   "source": "https://www.musicbusinessworldwide.com/amazon-music-raises-subscription-prices-in-the-us-and-uk/"
-  },
-  {
-   "id": "amazon-music-us-2026-03-individual",
-   "serviceId": "amazon-music",
-   "plan": "Unlimited Individual",
-   "country": "US",
-   "currency": "USD",
-   "frequency": "monthly",
-   "from": 11.99,
-   "to": 12.99,
    "effective": "2026-03-05",
    "source": "https://www.musicbusinessworldwide.com/amazon-music-raises-subscription-prices-in-the-us-and-uk/"
   },
@@ -778,30 +754,6 @@
    "source": "https://www.hawaiinewsnow.com/2026/09/23/disney-hulu-are-raising-streaming-prices-again/"
   },
   {
-   "id": "microsoft-365-de-2025-01-family",
-   "serviceId": "microsoft-365",
-   "plan": "Family",
-   "country": "DE",
-   "currency": "EUR",
-   "frequency": "monthly",
-   "from": 10.0,
-   "to": 13.0,
-   "effective": "2025-01-16",
-   "source": "https://www.ifun.de/wegen-copilot-microsofts-office-abos-werden-teurer-246954/"
-  },
-  {
-   "id": "microsoft-365-de-2025-01-family-y",
-   "serviceId": "microsoft-365",
-   "plan": "Family",
-   "country": "DE",
-   "currency": "EUR",
-   "frequency": "annual",
-   "from": 99.0,
-   "to": 129.0,
-   "effective": "2025-01-16",
-   "source": "https://www.ifun.de/wegen-copilot-microsofts-office-abos-werden-teurer-246954/"
-  },
-  {
    "id": "microsoft-365-de-2025-01-single",
    "serviceId": "microsoft-365",
    "plan": "Single",
@@ -824,30 +776,6 @@
    "to": 99.0,
    "effective": "2025-01-16",
    "source": "https://www.ifun.de/wegen-copilot-microsofts-office-abos-werden-teurer-246954/"
-  },
-  {
-   "id": "microsoft-365-us-2025-01-family",
-   "serviceId": "microsoft-365",
-   "plan": "Family",
-   "country": "US",
-   "currency": "USD",
-   "frequency": "monthly",
-   "from": 9.99,
-   "to": 12.99,
-   "effective": "2025-01-16",
-   "source": "https://pureinfotech.com/microsoft-365-personal-family-price-increase/"
-  },
-  {
-   "id": "microsoft-365-us-2025-01-family-y",
-   "serviceId": "microsoft-365",
-   "plan": "Family",
-   "country": "US",
-   "currency": "USD",
-   "frequency": "annual",
-   "from": 99.99,
-   "to": 129.99,
-   "effective": "2025-01-16",
-   "source": "https://pureinfotech.com/microsoft-365-personal-family-price-increase/"
   },
   {
    "id": "microsoft-365-us-2025-01-personal",
@@ -1134,18 +1062,6 @@
    "frequency": "monthly",
    "from": 14.99,
    "to": 17.99,
-   "effective": "2025-11-15",
-   "source": "https://www.macerkopf.de/2025/08/14/spotify-wird-teurer-das-sind-die-neuen-preise/"
-  },
-  {
-   "id": "spotify-de-2025-11-family",
-   "serviceId": "spotify",
-   "plan": "Family",
-   "country": "DE",
-   "currency": "EUR",
-   "frequency": "monthly",
-   "from": 17.99,
-   "to": 21.99,
    "effective": "2025-11-15",
    "source": "https://www.macerkopf.de/2025/08/14/spotify-wird-teurer-das-sind-die-neuen-preise/"
   },
