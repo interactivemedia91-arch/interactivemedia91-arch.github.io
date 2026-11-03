@@ -600,6 +600,58 @@
    "source": "https://www.newscaststudio.com/2026/08/24/espn-dtc-streaming-price-hike-826/"
   },
   {
+   "id": "fubo-tv-us-2026-07-deluxe",
+   "serviceId": "fubo-tv",
+   "plan": "Deluxe",
+   "country": "US",
+   "currency": "USD",
+   "frequency": "monthly",
+   "from": 103.99,
+   "to": 118.99,
+   "effective": "2026-07-01",
+   "source": "https://www.cabletv.com/news/fubo-raising-prices-july-2026",
+   "dateApprox": "month"
+  },
+  {
+   "id": "fubo-tv-us-2026-07-elite",
+   "serviceId": "fubo-tv",
+   "plan": "Elite",
+   "country": "US",
+   "currency": "USD",
+   "frequency": "monthly",
+   "from": 83.99,
+   "to": 98.99,
+   "effective": "2026-07-01",
+   "source": "https://www.cabletv.com/news/fubo-raising-prices-july-2026",
+   "dateApprox": "month"
+  },
+  {
+   "id": "fubo-tv-us-2026-07-essential",
+   "serviceId": "fubo-tv",
+   "plan": "Essential",
+   "country": "US",
+   "currency": "USD",
+   "frequency": "monthly",
+   "from": 73.99,
+   "to": 88.99,
+   "effective": "2026-07-01",
+   "source": "https://www.cabletv.com/news/fubo-raising-prices-july-2026",
+   "dateApprox": "month"
+  },
+  {
+   "id": "fubo-tv-us-2026-07-pro",
+   "serviceId": "fubo-tv",
+   "plan": "Pro",
+   "country": "US",
+   "currency": "USD",
+   "frequency": "monthly",
+   "from": 73.99,
+   "to": 88.99,
+   "effective": "2026-07-01",
+   "source": "https://www.cabletv.com/news/fubo-raising-prices-july-2026",
+   "dateApprox": "month"
+  },
+  {
    "id": "hbo-max-de-2027-01-basic",
    "serviceId": "hbo-max",
    "plan": "Basis with ads",
@@ -1185,6 +1237,17 @@
    "to": 6.99,
    "effective": "2026-01-15",
    "source": "https://macdailynews.com/2026/01/15/spotify-again-jacks-up-subscription-prices-in-the-u-s/amp/"
+  },
+  {
+   "id": "starz-us-2026-06-base",
+   "serviceId": "starz",
+   "country": "US",
+   "currency": "USD",
+   "frequency": "monthly",
+   "from": 10.99,
+   "to": 11.99,
+   "effective": "2026-06-08",
+   "source": "https://cordcuttersnews.com/two-more-major-streaming-services-are-raising-their-prices-next-month/"
   },
   {
    "id": "tidal-de-2026-08-family",
