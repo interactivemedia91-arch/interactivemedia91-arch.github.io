@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-25",
+ "updatedAt": "2026-11-03",
  "changes": [
   {
    "id": "1password-us-2026-03-families",
@@ -516,6 +516,18 @@
    "source": "https://www.hawaiinewsnow.com/2026/09/23/disney-hulu-are-raising-streaming-prices-again/"
   },
   {
+   "id": "disney-plus-us-2026-10-premium-y",
+   "serviceId": "disney-plus",
+   "plan": "Premium",
+   "country": "US",
+   "currency": "USD",
+   "frequency": "annual",
+   "from": 189.99,
+   "to": 214.99,
+   "effective": "2026-10-21",
+   "source": "https://www.droid-life.com/2026/09/23/new-disney-price-increase/"
+  },
+  {
    "id": "espn-plus-us-2025-10",
    "serviceId": "espn-plus",
    "plan": "ESPN+ / Select",
@@ -932,6 +944,30 @@
    "to": 19.99,
    "effective": "2026-03-26",
    "source": "https://www.droid-life.com/2026/03/26/netflix-increasing-prices-again/"
+  },
+  {
+   "id": "pandora-us-2026-10-premium",
+   "serviceId": "pandora",
+   "plan": "Premium",
+   "country": "US",
+   "currency": "USD",
+   "frequency": "monthly",
+   "from": 10.99,
+   "to": 11.99,
+   "effective": "2026-10-22",
+   "source": "https://finance.yahoo.com/media-advertising/articles/pandora-hikes-subscriber-prices-every-010300641.html"
+  },
+  {
+   "id": "pandora-us-2026-10-premium-family",
+   "serviceId": "pandora",
+   "plan": "Premium Family",
+   "country": "US",
+   "currency": "USD",
+   "frequency": "monthly",
+   "from": 17.99,
+   "to": 19.99,
+   "effective": "2026-10-22",
+   "source": "https://finance.yahoo.com/media-advertising/articles/pandora-hikes-subscriber-prices-every-010300641.html"
   },
   {
    "id": "paramount-plus-us-2026-01-essential",
