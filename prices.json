@@ -1067,18 +1067,6 @@
    "dateApprox": "month"
   },
   {
-   "id": "peloton-us-2025-10-app-one",
-   "serviceId": "peloton",
-   "plan": "App One",
-   "country": "US",
-   "currency": "USD",
-   "frequency": "monthly",
-   "from": 12.99,
-   "to": 15.99,
-   "effective": "2025-10-01",
-   "source": "https://www.fastcompany.com/91413748/peloton-ai-new-features-products-turnaround"
-  },
-  {
    "id": "peloton-us-2025-10-app-plus",
    "serviceId": "peloton",
    "plan": "App+",
